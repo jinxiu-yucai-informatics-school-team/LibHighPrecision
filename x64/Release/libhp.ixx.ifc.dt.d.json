@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "x:\\学神联盟附属利他工作室（备份）\\libhighprecision\\libhp.ixx",
+        "ProvidedModule": "libhp",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
